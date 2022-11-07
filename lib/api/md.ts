@@ -25,7 +25,7 @@ export function getPageData(
   return {
     ...data,
     id: folderName.replace(/\.md$/, ""),
-    date: data.id,
+    date: data.date,
   };
 }
 
