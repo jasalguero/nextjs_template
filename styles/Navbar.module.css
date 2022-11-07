@@ -1,0 +1,13 @@
+.navbar {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.lang_selector {
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.selected {
+  text-decoration: underline;
+}
